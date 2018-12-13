@@ -1,7 +1,12 @@
 # flutter_sliding_nav
 [![pub package](https://img.shields.io/pub/v/flutter_sliding_nav.svg)](https://pub.dartlang.org/packages/flutter_sliding_nav)
+
+<br>
+<br>
+
 flutter_sliding_nav provides you with the SlidingRoot widget which takes a slideable front widget which is rendered over a back widget, this can be used to make unique intuitive gesture interfaces
 
+### Links
 [Pub Package](https://pub.dartlang.org/packages/flutter_sliding_nav)
 
 ## Usage
