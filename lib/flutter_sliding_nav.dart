@@ -1,7 +1,7 @@
 library flutter_sliding_nav;
 
 import 'package:flutter/material.dart';
-import 'package:meta/meta.dart';
+import 'package:flutter/foundation.dart';
 
 class SlidingRootState extends State<SlidingRoot> with SingleTickerProviderStateMixin {
 
