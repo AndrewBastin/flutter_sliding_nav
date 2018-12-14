@@ -1,6 +1,6 @@
 name: flutter_sliding_nav
 description: Provides the SlidingRoot widget which displays a slideable front widget with a back widget
-version: 0.1.0
+version: 0.1.1
 author: Andrew Bastin <andrewbastin.k@gmail.com>
 homepage: https://github.com/AndrewBastin/flutter_sliding_nav
 
