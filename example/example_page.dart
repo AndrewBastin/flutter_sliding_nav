@@ -4,14 +4,14 @@ import 'package:flutter_sliding_nav/flutter_sliding_nav.dart';
 import 'text_button.dart';
 import 'non_existent_appbar.dart';
 
-class HomePage extends StatefulWidget {
+class ExamplePage extends StatefulWidget {
   
   @override
-  State<StatefulWidget> createState() => new HomePageState();
+  State<StatefulWidget> createState() => new ExamplePageState();
 
 } 
 
-class HomePageState extends State<HomePage> {
+class ExamplePageState extends State<ExamplePage> {
 
   num selectedPage = 1;
   SlidingRoot slidingRoot;
