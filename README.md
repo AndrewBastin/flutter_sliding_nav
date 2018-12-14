@@ -31,4 +31,4 @@ This renders a black colored screen which you can swipe from left edge to the ri
 
 [Example Code](https://github.com/AndrewBastin/flutter_sliding_nav/tree/master/example)
 
-<p align="center">**made with ❤️ by [andrew bastin](https://github.com/AndrewBastin)**</p>
+<p align="center"><b>made with ❤️ by <a href="https://github.com/AndrewBastin">andrew bastin</a></b></p>
